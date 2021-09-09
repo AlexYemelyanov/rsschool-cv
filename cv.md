@@ -40,7 +40,7 @@ Not yet... But I really want to get it.
 - **Courses**:
   - SkillUp
   - HTMLAcademy
-  - GloAcademy
+  - GloAcademy (Courses to JavaScript)
   - LernJavaScript.ru
   - FreeCodeCamp
 
