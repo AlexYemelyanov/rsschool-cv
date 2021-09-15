@@ -1,0 +1,83 @@
+body {
+  background-color: gray;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+.container {
+  width: 1200px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Header */
+
+.header-left {
+  flex: 30%;
+}
+
+.header-icons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-icon {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+} 
+
+.fa-map-marked-alt {
+  color: red;
+}
+
+.fa-mobile-alt {
+  color: orange;
+}
+
+.fa-envelope {
+  color: yellow;
+}
+
+.fa-linkedin-in {
+  color: green;
+}
+
+.fa-github {
+  color: lightblue;
+}
+
+.header-right {
+  flex: 70%;
+}
+
+.header-navigation__elems {
+  display: flex;
+  flex-wrap: wrap;
+}
+.header-navigation__elem {
+ padding-top: 50%;
+ padding-bottom: 50%;
+}
+
+.header-navigation__elem img {
+ 
+  text-align: center;
+  flex: 14%;
+  width: 90px;
+  height: 90px;
+  padding: 10px;
+}
+.contacts .about .skills .code_example .experience .education .english p{
+  text-align: center;
+}
+.header-fe_logo {
+  display: none;
+}
